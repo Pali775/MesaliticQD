@@ -97,6 +97,8 @@ void loop() {
 }
 ```
 
+Implementation note: Applications using Calden mode should follow the acquisition sequence and timing requirements described in docs/protocol.md before using the high-level API.
+
 ## Measurement model
 
 ### Quantor-Dynal value
